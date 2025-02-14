@@ -22,3 +22,4 @@ opentelemetry-instrumentation-requests==0.37b0
 rsa>=4.7
 # onefuzztypes version is set during build
 onefuzztypes==0.0.0
+cryptography>=44.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
