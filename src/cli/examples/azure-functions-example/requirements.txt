@@ -1,3 +1,4 @@
 # Update this version to the SDK version used.
 onefuzz
 cryptography>=44.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
